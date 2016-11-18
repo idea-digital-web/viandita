@@ -1,3 +1,3 @@
 #!/bin/sh
-cd ~/public_html/frio/blog/wp-content/themes/frio-proyecto
+cd ~/public_html/viandita/wp-content/themes/viandita
 git pull origin master
