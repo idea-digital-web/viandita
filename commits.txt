@@ -1,3 +1,9 @@
+commit 0efd81d82136bb133db5963800f463ce79e86a3c
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Nov 17 20:59:04 2016 -0400
+
+    Configurado deploy automatic
+
 commit 23d9deaf138ac417290b7a78220c1ec2ddee84a0
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Nov 17 18:49:33 2016 -0400
