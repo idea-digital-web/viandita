@@ -1,3 +1,9 @@
+commit a3cbb9596e7da6b948cd7c0d91d0f6c454ca560c
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Nov 17 21:52:09 2016 -0400
+
+    Cambiada imagenes content
+
 commit 0efd81d82136bb133db5963800f463ce79e86a3c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Nov 17 20:59:04 2016 -0400
