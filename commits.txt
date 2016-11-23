@@ -1,3 +1,9 @@
+commit e4a04710ccb285dc47e80337767bf7ddf347ac52
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Nov 21 23:07:28 2016 -0400
+
+    Terminado footer y eliminado ver detalles
+
 commit ebc90e3345a42ea147c776d8a59ee00a51f8679c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Nov 21 22:14:39 2016 -0400
