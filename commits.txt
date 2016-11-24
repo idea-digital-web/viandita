@@ -1,3 +1,9 @@
+commit c126e085a655e64872d3ec3ba9e1120d29df1f72
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Nov 24 17:53:14 2016 -0400
+
+    Agregado favicon
+
 commit ad5c8e5aac2b39766db2b5476934da20318ebed8
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Nov 24 15:06:12 2016 -0400
