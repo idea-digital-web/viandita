@@ -1,3 +1,9 @@
+commit c9fc990fa23f7f3290f350ee5b9a7030861321e0
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Nov 25 12:57:57 2016 -0400
+
+    Optimizando templates
+
 commit 0d20fd2eb8dfe13e192b1c110f8b19c7ea8270d6
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Nov 25 10:55:32 2016 -0400
