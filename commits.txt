@@ -1,3 +1,9 @@
+commit b184ee6d2e2948e04e166312367d6cc3ea189752
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Nov 25 15:28:51 2016 -0400
+
+    Separado imagen de descripcion en single
+
 commit 9a0c3b6d0a6a46902cc9d3a0f65eee14c5d01c4e
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Nov 25 13:04:59 2016 -0400
