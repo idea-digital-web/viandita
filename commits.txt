@@ -1,3 +1,9 @@
+commit 7a5fed12c5630e9a3a5a0c6f710a063b6f648718
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Nov 26 18:55:37 2016 -0400
+
+    Agregada items en top navbar
+
 commit b37c1338f0e867facc5b6dc3a8ae7963bc3d4c4c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sat Nov 26 00:07:54 2016 -0400
