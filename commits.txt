@@ -1,3 +1,9 @@
+commit 753d5785662198ea86f946172a472bec06d9b361
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Nov 25 23:25:20 2016 -0400
+
+    Activado submenu en menu secundario
+
 commit f22f4534255c0e44f152b21fddb046d56a4c65cf
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Nov 25 16:05:58 2016 -0400
