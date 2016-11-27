@@ -1,3 +1,9 @@
+commit 7060ea56a6591b99297f2a3b45391e62acd2fa65
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Nov 26 19:39:26 2016 -0400
+
+    agregando list-style-type disc
+
 commit 0173165acd7aeb9ed9f89adb02f8a5f7a371c58c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sat Nov 26 19:17:51 2016 -0400
