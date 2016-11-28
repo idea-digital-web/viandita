@@ -1,3 +1,9 @@
+commit d5ddc43723ae3e917ee56c434725db48d0d73d40
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sun Nov 27 19:50:31 2016 -0400
+
+    Mejorado item de navbar
+
 commit d17d7bc7e72f4cdcbbb4466b6a49659d1264909d
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sun Nov 27 19:42:56 2016 -0400
