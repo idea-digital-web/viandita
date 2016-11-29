@@ -1,3 +1,9 @@
+commit 3728c606e718a0e857c8e7b5e33c764db5c61ae9
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Nov 28 23:18:08 2016 -0400
+
+    Eliminado recaptcha
+
 commit d92cb2e51604def4f9c522dc4d6445fe988e4d9c
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Nov 28 19:37:22 2016 -0400
