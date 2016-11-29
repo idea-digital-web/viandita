@@ -1,3 +1,9 @@
+commit d92cb2e51604def4f9c522dc4d6445fe988e4d9c
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Nov 28 19:37:22 2016 -0400
+
+    MEjorado top navbar
+
 commit dd9e3e6a94886ffac40e67568cc7cbdc7301a007
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Nov 28 18:36:47 2016 -0400
